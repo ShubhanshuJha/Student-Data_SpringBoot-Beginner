@@ -3,7 +3,8 @@ This is a beginner level project in SpringBoot. Here, user can input student dat
 ___
 ### How to run this project
 1. `git clone https://github.com/ShubhanshuJha/Student-Data_SpringBoot-Beginner.git`
-2. `java -jar target/demo-0.0.1-SNAPSHOT.jar`
+2. `cd Student-Data_SpringBoot-Beginner`
 3. `mvn spring-boot:run`
+4. Go to `http://localhost:4242`
 
 The project will be running on the localhost at port 4242.
